@@ -16,5 +16,5 @@ ServiceTest project -unit tests
 Web API project
 
 
-
+The solution also implements logging
 
